@@ -1,4 +1,4 @@
-public class bingorules {
+public class q2 {
 
     // BingoCard Application
     public static void main(String[] args) {

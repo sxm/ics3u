@@ -1,4 +1,4 @@
-public class tictactoerules {
+public class q6 {
 
     // BingoCard Application
     public static void main(String[] args) {
