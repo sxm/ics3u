@@ -1,4 +1,7 @@
-public class q1 {
+
+package ch1ex1;
+
+public class Ch1ex1 {
 
     // BingoCard Application
     public static void main(String[] args) {
@@ -12,4 +15,5 @@ public class q1 {
 
     }
 
-}
+}    
+

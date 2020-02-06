@@ -1,4 +1,11 @@
-public class q2 {
+
+package ch1ex2;
+
+/**
+ *
+ * @author swaheed9387
+ */
+public class Ch1ex2 {
 
     // BingoCard Application
     public static void main(String[] args) {
